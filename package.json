@@ -1,0 +1,11 @@
+{
+  "name": "relojdigital2024",
+  "version": "1.0.0",
+  "description": "Digital clock where the user can set an alarm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mancuso Cristian",
+  "license": "ISC"
+}
